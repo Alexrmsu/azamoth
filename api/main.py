@@ -1,0 +1,30 @@
+def translate_commands(instructions: dict):
+    pass
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
